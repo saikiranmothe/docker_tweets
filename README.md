@@ -1,1 +1,3 @@
-Check out http://shopify.github.com/dashing for more information.
+#Docker Tweets Dashboard
+
+#Docker Buzz on Twitter
